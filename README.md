@@ -13,7 +13,9 @@ Sumber: [Badan Pusat Statistik (BPS) - Upah Minimum Regional Provinsi](https://w
 
 # Visualisasi
 ### Peta (Map)
+![Peta UMR 34 Provinsi di Indonesia th. 2020](https://github.com/salmiah-ls/Visualisasi-UMR-Indonesia/blob/main/gambar/map.png)
 
-### Chart
+### Chart/Grafik
+![Grafik UMR 34 Provinsi di Indonesia th. 2020](https://github.com/salmiah-ls/Visualisasi-UMR-Indonesia/blob/main/gambar/chart.png)
 
 ## Insight
