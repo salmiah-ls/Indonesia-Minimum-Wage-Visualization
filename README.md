@@ -18,4 +18,8 @@ Sumber: [Badan Pusat Statistik (BPS) - Upah Minimum Regional Provinsi](https://w
 ### Chart/Grafik
 ![Grafik UMR 34 Provinsi di Indonesia th. 2020](https://github.com/salmiah-ls/Visualisasi-UMR-Indonesia/blob/main/gambar/chart.png)
 
-## Insight
+## Insight/Informasi
+Dari kedua grafik di atas, berikut beberapa insight/informasi yang dapat diperoleh:
+- DKI Jakarta merupakan provinsi dengan UMR Provinsi tertinggi (4.3 Million Rupiah).
+- DI Yogyakarta merupakan provinsi dengan UMR Provinsi terendah (1.7 Million Rupiah).
+- DKI Jakarta adalah satu-satunya provinsi yang memiliki UMR Provinsi di atas 4 Juta (Million) Rupiah.
